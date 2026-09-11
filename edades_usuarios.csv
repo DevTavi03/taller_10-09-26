@@ -1,0 +1,401 @@
+id_usuario,edad,genero,rango_edad,plataforma_principal,horas_semana,juego_favorito
+1,18,Masculino,18-24,PC,12,FIFA
+2,25,Femenino,25-34,PlayStation,8,God of War
+3,32,Masculino,25-34,Xbox,15,Forza Horizon
+4,16,Femenino,13-17,Switch,6,Animal Crossing
+5,41,Masculino,35-44,PC,10,Age of Empires
+6,22,Masculino,18-24,PlayStation,20,Call of Duty
+7,29,Femenino,25-34,Switch,7,Zelda
+8,35,Masculino,35-44,Xbox,14,Halo
+9,19,Femenino,18-24,PC,9,Minecraft
+10,45,Masculino,45-54,PC,5,The Sims
+11,14,Masculino,13-17,Switch,11,Pokemon
+12,27,Femenino,25-34,PlayStation,13,The Last of Us
+13,38,Masculino,35-44,PC,8,World of Warcraft
+14,52,Femenino,45-54,Switch,4,Mario Kart
+15,23,Masculino,18-24,Xbox,18,FIFA
+16,31,Femenino,25-34,PC,10,Stardew Valley
+17,17,Masculino,13-17,PlayStation,16,Fortnite
+18,44,Masculino,35-44,Xbox,6,Red Dead Redemption
+19,21,Femenino,18-24,Switch,12,Animal Crossing
+20,36,Masculino,35-44,PC,9,League of Legends
+21,15,Femenino,13-17,Switch,8,Just Dance
+22,28,Masculino,25-34,PlayStation,22,Elden Ring
+23,33,Femenino,25-34,PC,7,The Sims
+24,49,Masculino,45-54,PC,4,Civilization
+25,20,Masculino,18-24,Xbox,19,GTA V
+26,26,Femenino,25-34,Switch,10,Zelda
+27,39,Masculino,35-44,PlayStation,13,God of War
+28,55,Femenino,55+,PC,3,Solitaire
+29,24,Masculino,18-24,PC,17,Valorant
+30,30,Femenino,25-34,Xbox,9,Forza Horizon
+31,18,Femenino,18-24,Switch,11,Pokemon
+32,42,Masculino,35-44,PC,8,Age of Empires
+33,16,Masculino,13-17,PlayStation,21,Call of Duty
+34,34,Femenino,25-34,PC,12,Minecraft
+35,47,Masculino,45-54,Xbox,5,Halo
+36,22,Femenino,18-24,Switch,13,Animal Crossing
+37,29,Masculino,25-34,PlayStation,16,The Last of Us
+38,37,Femenino,35-44,PC,7,Stardew Valley
+39,13,Masculino,13-17,Switch,9,Mario Kart
+40,51,Masculino,45-54,PC,6,World of Warcraft
+41,19,Masculino,18-24,Xbox,20,FIFA
+42,27,Femenino,25-34,PC,11,The Sims
+43,35,Masculino,35-44,PlayStation,14,God of War
+44,58,Femenino,55+,Switch,2,Solitaire
+45,23,Femenino,18-24,PC,15,Valorant
+46,32,Masculino,25-34,Xbox,12,Forza Horizon
+47,15,Femenino,13-17,PlayStation,10,Fortnite
+48,40,Masculino,35-44,PC,9,Civilization
+49,21,Masculino,18-24,Switch,14,Zelda
+50,36,Femenino,35-44,PC,8,Stardew Valley
+51,17,Femenino,13-17,Switch,13,Just Dance
+52,25,Masculino,25-34,PlayStation,19,Elden Ring
+53,30,Femenino,25-34,PC,10,The Sims
+54,46,Masculino,45-54,Xbox,5,Red Dead Redemption
+55,20,Femenino,18-24,Switch,12,Animal Crossing
+56,28,Masculino,25-34,PC,18,League of Legends
+57,38,Femenino,35-44,PlayStation,11,The Last of Us
+58,53,Masculino,45-54,PC,4,Civilization
+59,22,Masculino,18-24,Xbox,17,GTA V
+60,31,Femenino,25-34,Switch,9,Zelda
+61,16,Masculino,13-17,PC,22,Minecraft
+62,34,Masculino,25-34,PlayStation,15,God of War
+63,43,Femenino,35-44,PC,7,Stardew Valley
+64,56,Masculino,55+,Switch,3,Mario Kart
+65,19,Femenino,18-24,PC,13,Valorant
+66,26,Masculino,25-34,Xbox,14,Halo
+67,37,Femenino,35-44,PlayStation,10,The Last of Us
+68,48,Masculino,45-54,PC,6,Age of Empires
+69,23,Femenino,18-24,Switch,11,Animal Crossing
+70,33,Masculino,25-34,PC,16,Valorant
+71,14,Femenino,13-17,Switch,8,Just Dance
+72,29,Femenino,25-34,PlayStation,17,Elden Ring
+73,41,Masculino,35-44,Xbox,9,Forza Horizon
+74,54,Femenino,55+,PC,3,Solitaire
+75,20,Masculino,18-24,PC,20,FIFA
+76,30,Femenino,25-34,Switch,12,Zelda
+77,39,Masculino,35-44,PlayStation,13,God of War
+78,47,Femenino,45-54,PC,5,The Sims
+79,24,Masculino,18-24,Xbox,18,Call of Duty
+80,35,Femenino,35-44,PC,10,Minecraft
+81,17,Masculino,13-17,Switch,15,Pokemon
+82,27,Masculino,25-34,PC,19,League of Legends
+83,42,Femenino,35-44,PlayStation,8,The Last of Us
+84,52,Masculino,45-54,Xbox,4,Halo
+85,21,Femenino,18-24,Switch,13,Animal Crossing
+86,28,Femenino,25-34,PC,11,Stardew Valley
+87,36,Masculino,35-44,PC,12,Civilization
+88,59,Femenino,55+,Switch,2,Solitaire
+89,18,Masculino,18-24,PlayStation,21,Fortnite
+90,32,Femenino,25-34,Xbox,10,Forza Horizon
+91,15,Masculino,13-17,PC,16,Minecraft
+92,33,Masculino,25-34,PlayStation,17,Elden Ring
+93,44,Femenino,35-44,PC,7,The Sims
+94,50,Masculino,45-54,PC,6,World of Warcraft
+95,22,Masculino,18-24,Switch,14,Zelda
+96,26,Femenino,25-34,PC,12,Valorant
+97,38,Masculino,35-44,Xbox,13,Red Dead Redemption
+98,55,Femenino,55+,PC,3,Solitaire
+99,19,Femenino,18-24,PlayStation,16,The Last of Us
+100,29,Masculino,25-34,PC,18,League of Legends
+101,16,Femenino,13-17,Switch,10,Animal Crossing
+102,31,Masculino,25-34,PC,15,Valorant
+103,40,Femenino,35-44,PlayStation,9,God of War
+104,53,Masculino,45-54,Xbox,5,Halo
+105,23,Masculino,18-24,PC,19,FIFA
+106,27,Femenino,25-34,Switch,13,Zelda
+107,37,Masculino,35-44,PC,11,Civilization
+108,57,Femenino,55+,Switch,2,Mario Kart
+109,20,Femenino,18-24,PC,14,Stardew Valley
+110,34,Masculino,25-34,PlayStation,16,Elden Ring
+111,14,Masculino,13-17,Switch,9,Pokemon
+112,28,Femenino,25-34,PC,10,The Sims
+113,42,Masculino,35-44,Xbox,8,Forza Horizon
+114,51,Femenino,45-54,PC,4,Solitaire
+115,21,Masculino,18-24,PlayStation,20,Call of Duty
+116,30,Femenino,25-34,Switch,11,Animal Crossing
+117,39,Masculino,35-44,PC,14,Age of Empires
+118,46,Masculino,45-54,Xbox,6,Halo
+119,24,Femenino,18-24,PC,17,Valorant
+120,33,Femenino,25-34,PlayStation,12,The Last of Us
+121,17,Masculino,13-17,Switch,13,Just Dance
+122,29,Masculino,25-34,PC,19,League of Legends
+123,41,Femenino,35-44,PC,9,Stardew Valley
+124,54,Masculino,55+,Switch,3,Mario Kart
+125,19,Masculino,18-24,Xbox,21,GTA V
+126,26,Femenino,25-34,PC,12,The Sims
+127,36,Masculino,35-44,PlayStation,13,God of War
+128,48,Femenino,45-54,PC,5,Civilization
+129,22,Femenino,18-24,Switch,14,Zelda
+130,31,Masculino,25-34,PC,16,Valorant
+131,15,Femenino,13-17,Switch,8,Pokemon
+132,28,Masculino,25-34,PlayStation,18,Elden Ring
+133,43,Masculino,35-44,Xbox,7,Red Dead Redemption
+134,52,Femenino,45-54,PC,4,Solitaire
+135,20,Masculino,18-24,PC,19,FIFA
+136,32,Femenino,25-34,Switch,10,Animal Crossing
+137,38,Masculino,35-44,PC,12,Civilization
+138,56,Masculino,55+,Xbox,3,Halo
+139,23,Femenino,18-24,PC,15,Stardew Valley
+140,27,Masculino,25-34,PlayStation,17,The Last of Us
+141,16,Masculino,13-17,Switch,11,Mario Kart
+142,30,Femenino,25-34,PC,13,The Sims
+143,40,Masculino,35-44,PC,10,Age of Empires
+144,50,Femenino,45-54,Switch,5,Solitaire
+145,18,Femenino,18-24,PlayStation,20,Elden Ring
+146,29,Masculino,25-34,PC,18,League of Legends
+147,37,Femenino,35-44,Switch,9,Zelda
+148,53,Masculino,45-54,PC,4,Civilization
+149,21,Masculino,18-24,Xbox,16,GTA V
+150,25,Femenino,25-34,PC,12,Valorant
+151,14,Masculino,13-17,Switch,10,Pokemon
+152,33,Masculino,25-34,PlayStation,15,God of War
+153,42,Femenino,35-44,PC,8,Stardew Valley
+154,55,Masculino,55+,Switch,3,Mario Kart
+155,19,Femenino,18-24,PC,13,The Sims
+156,28,Masculino,25-34,Xbox,14,Forza Horizon
+157,39,Masculino,35-44,PC,11,Civilization
+158,47,Femenino,45-54,Switch,6,Animal Crossing
+159,22,Masculino,18-24,PC,17,Valorant
+160,31,Femenino,25-34,PlayStation,13,The Last of Us
+161,17,Femenino,13-17,Switch,9,Just Dance
+162,30,Masculino,25-34,PC,19,Elden Ring
+163,44,Masculino,35-44,Xbox,8,Red Dead Redemption
+164,51,Femenino,45-54,PC,4,Solitaire
+165,20,Femenino,18-24,Switch,12,Zelda
+166,27,Masculino,25-34,PC,16,League of Legends
+167,38,Masculino,35-44,PlayStation,10,God of War
+168,54,Femenino,55+,PC,3,Civilization
+169,23,Masculino,18-24,PC,18,FIFA
+170,32,Femenino,25-34,Switch,11,Animal Crossing
+171,15,Masculino,13-17,Switch,13,Pokemon
+172,29,Femenino,25-34,PC,14,Stardew Valley
+173,41,Masculino,35-44,Xbox,9,Forza Horizon
+174,49,Femenino,45-54,PC,5,The Sims
+175,21,Masculino,18-24,PlayStation,20,Call of Duty
+176,26,Masculino,25-34,PC,17,Valorant
+177,36,Femenino,35-44,Switch,10,Zelda
+178,57,Masculino,55+,PC,3,Solitaire
+179,19,Femenino,18-24,PC,15,Minecraft
+180,34,Masculino,25-34,PlayStation,16,Elden Ring
+181,16,Masculino,13-17,Switch,11,Mario Kart
+182,28,Femenino,25-34,PC,12,The Sims
+183,40,Masculino,35-44,PC,13,Age of Empires
+184,52,Femenino,45-54,Switch,4,Animal Crossing
+185,22,Femenino,18-24,PC,18,Valorant
+186,30,Masculino,25-34,Xbox,14,Halo
+187,37,Femenino,35-44,PC,9,Stardew Valley
+188,55,Masculino,55+,Switch,3,Mario Kart
+189,20,Masculino,18-24,PC,19,FIFA
+190,27,Femenino,25-34,PlayStation,12,The Last of Us
+191,14,Femenino,13-17,Switch,8,Just Dance
+192,33,Masculino,25-34,PC,17,League of Legends
+193,43,Masculino,35-44,Xbox,8,Red Dead Redemption
+194,50,Femenino,45-54,PC,5,Civilization
+195,23,Femenino,18-24,Switch,13,Zelda
+196,29,Masculino,25-34,PC,16,Elden Ring
+197,38,Masculino,35-44,PlayStation,11,God of War
+198,56,Femenino,55+,PC,2,Solitaire
+199,21,Masculino,18-24,PC,20,Valorant
+200,31,Femenino,25-34,Switch,10,Animal Crossing
+201,17,Masculino,13-17,Switch,12,Pokemon
+202,28,Femenino,25-34,PC,14,The Sims
+203,40,Masculino,35-44,PC,9,Age of Empires
+204,53,Masculino,45-54,Xbox,5,Halo
+205,19,Femenino,18-24,PC,15,Stardew Valley
+206,26,Masculino,25-34,PlayStation,18,The Last of Us
+207,36,Femenino,35-44,Switch,11,Zelda
+208,54,Masculino,55+,PC,3,Civilization
+209,22,Masculino,18-24,PC,19,FIFA
+210,30,Femenino,25-34,PC,13,Valorant
+211,15,Femenino,13-17,Switch,9,Just Dance
+212,32,Masculino,25-34,PlayStation,16,Elden Ring
+213,42,Masculino,35-44,Xbox,8,Forza Horizon
+214,51,Femenino,45-54,PC,4,Solitaire
+215,20,Masculino,18-24,Switch,14,Zelda
+216,29,Femenino,25-34,PC,12,The Sims
+217,37,Masculino,35-44,PC,10,Civilization
+218,56,Femenino,55+,Switch,2,Mario Kart
+219,23,Femenino,18-24,PC,17,Valorant
+220,27,Masculino,25-34,Xbox,15,Halo
+221,16,Masculino,13-17,Switch,11,Mario Kart
+222,31,Femenino,25-34,PC,13,Stardew Valley
+223,41,Masculino,35-44,PlayStation,12,God of War
+224,52,Masculino,45-54,PC,5,Age of Empires
+225,18,Masculino,18-24,PC,21,Valorant
+226,28,Femenino,25-34,Switch,10,Animal Crossing
+227,39,Masculino,35-44,PC,11,Civilization
+228,55,Femenino,55+,PC,3,Solitaire
+229,21,Femenino,18-24,PlayStation,16,The Last of Us
+230,33,Masculino,25-34,PC,18,League of Legends
+231,14,Masculino,13-17,Switch,10,Pokemon
+232,30,Femenino,25-34,PC,12,The Sims
+233,44,Masculino,35-44,Xbox,9,Red Dead Redemption
+234,49,Femenino,45-54,PC,5,Stardew Valley
+235,22,Masculino,18-24,PC,19,FIFA
+236,26,Masculino,25-34,PlayStation,17,Elden Ring
+237,38,Femenino,35-44,Switch,11,Zelda
+238,57,Masculino,55+,PC,3,Civilization
+239,19,Masculino,18-24,Xbox,20,GTA V
+240,29,Femenino,25-34,PC,13,Valorant
+241,15,Femenino,13-17,Switch,8,Just Dance
+242,32,Masculino,25-34,PC,16,League of Legends
+243,42,Masculino,35-44,PlayStation,10,God of War
+244,50,Femenino,45-54,PC,4,Solitaire
+245,20,Masculino,18-24,Switch,15,Zelda
+246,28,Masculino,25-34,PC,17,Valorant
+247,36,Femenino,35-44,PC,12,Stardew Valley
+248,54,Masculino,55+,Xbox,3,Halo
+249,23,Femenino,18-24,PC,14,The Sims
+250,31,Masculino,25-34,PlayStation,18,The Last of Us
+251,17,Masculino,13-17,Switch,12,Pokemon
+252,30,Femenino,25-34,PC,11,Animal Crossing
+253,40,Masculino,35-44,PC,9,Civilization
+254,52,Femenino,45-54,Switch,5,Mario Kart
+255,21,Masculino,18-24,PC,20,Valorant
+256,27,Femenino,25-34,PlayStation,13,The Last of Us
+257,38,Masculino,35-44,PC,11,Age of Empires
+258,55,Masculino,55+,PC,3,Solitaire
+259,19,Femenino,18-24,Switch,14,Zelda
+260,29,Masculino,25-34,Xbox,16,Forza Horizon
+261,16,Femenino,13-17,Switch,10,Animal Crossing
+262,33,Masculino,25-34,PC,17,Elden Ring
+263,43,Femenino,35-44,PC,8,Stardew Valley
+264,51,Masculino,45-54,PC,5,Civilization
+265,22,Masculino,18-24,PC,18,FIFA
+266,26,Femenino,25-34,PC,12,The Sims
+267,37,Masculino,35-44,PlayStation,13,God of War
+268,56,Femenino,55+,Switch,2,Mario Kart
+269,20,Masculino,18-24,PC,19,Valorant
+270,30,Femenino,25-34,PC,11,Stardew Valley
+271,15,Masculino,13-17,Switch,9,Pokemon
+272,28,Masculino,25-34,PlayStation,17,The Last of Us
+273,41,Masculino,35-44,Xbox,8,Red Dead Redemption
+274,53,Femenino,45-54,PC,4,Solitaire
+275,23,Femenino,18-24,Switch,13,Zelda
+276,31,Masculino,25-34,PC,16,League of Legends
+277,39,Femenino,35-44,PC,10,Civilization
+278,54,Masculino,55+,PC,3,Age of Empires
+279,18,Masculino,18-24,PC,20,Valorant
+280,27,Femenino,25-34,Switch,12,Animal Crossing
+281,16,Masculino,13-17,Switch,11,Mario Kart
+282,32,Femenino,25-34,PC,13,The Sims
+283,42,Masculino,35-44,PlayStation,12,God of War
+284,50,Masculino,45-54,PC,5,Civilization
+285,21,Femenino,18-24,PC,15,Stardew Valley
+286,29,Masculino,25-34,PC,18,Elden Ring
+287,38,Femenino,35-44,Switch,10,Zelda
+288,57,Masculino,55+,PC,3,Solitaire
+289,19,Masculino,18-24,PC,19,FIFA
+290,30,Femenino,25-34,PC,12,Valorant
+291,14,Femenino,13-17,Switch,8,Just Dance
+292,33,Masculino,25-34,PlayStation,16,The Last of Us
+293,44,Masculino,35-44,Xbox,9,Forza Horizon
+294,52,Femenino,45-54,PC,4,Solitaire
+295,22,Masculino,18-24,Switch,14,Zelda
+296,28,Femenino,25-34,PC,13,Stardew Valley
+297,37,Masculino,35-44,PC,11,Age of Empires
+298,55,Femenino,55+,Switch,3,Mario Kart
+299,20,Masculino,18-24,PC,21,Valorant
+300,31,Masculino,25-34,Xbox,15,Halo
+301,17,Femenino,13-17,Switch,10,Pokemon
+302,29,Masculino,25-34,PC,17,League of Legends
+303,40,Femenino,35-44,PC,9,Civilization
+304,53,Masculino,45-54,PC,5,Age of Empires
+305,23,Masculino,18-24,PC,18,FIFA
+306,26,Femenino,25-34,Switch,11,Animal Crossing
+307,36,Masculino,35-44,PlayStation,13,God of War
+308,54,Femenino,55+,PC,3,Solitaire
+309,19,Femenino,18-24,PC,16,The Sims
+310,32,Masculino,25-34,PC,18,Valorant
+311,15,Masculino,13-17,Switch,9,Pokemon
+312,30,Femenino,25-34,PC,12,Stardew Valley
+313,41,Masculino,35-44,Xbox,10,Red Dead Redemption
+314,51,Femenino,45-54,PC,5,Civilization
+315,21,Masculino,18-24,PC,20,Valorant
+316,28,Masculino,25-34,PlayStation,16,Elden Ring
+317,38,Femenino,35-44,Switch,11,Zelda
+318,56,Masculino,55+,PC,3,Solitaire
+319,22,Masculino,18-24,PC,19,FIFA
+320,27,Femenino,25-34,PC,13,The Sims
+321,16,Masculino,13-17,Switch,11,Mario Kart
+322,33,Masculino,25-34,PC,17,League of Legends
+323,43,Masculino,35-44,PlayStation,10,God of War
+324,52,Femenino,45-54,PC,4,Solitaire
+325,20,Masculino,18-24,Switch,15,Zelda
+326,29,Femenino,25-34,PC,14,Stardew Valley
+327,37,Masculino,35-44,PC,12,Civilization
+328,55,Masculino,55+,Xbox,3,Halo
+329,23,Femenino,18-24,PC,16,Valorant
+330,31,Masculino,25-34,PC,18,Elden Ring
+331,14,Femenino,13-17,Switch,8,Just Dance
+332,30,Masculino,25-34,PlayStation,15,The Last of Us
+333,42,Femenino,35-44,PC,9,The Sims
+334,50,Masculino,45-54,PC,6,Age of Empires
+335,19,Masculino,18-24,PC,20,Valorant
+336,28,Femenino,25-34,Switch,12,Animal Crossing
+337,39,Masculino,35-44,PC,11,Civilization
+338,56,Femenino,55+,PC,3,Solitaire
+339,21,Masculino,18-24,PC,18,FIFA
+340,32,Femenino,25-34,PC,13,Stardew Valley
+341,17,Masculino,13-17,Switch,10,Pokemon
+342,29,Masculino,25-34,PC,17,League of Legends
+343,40,Femenino,35-44,PlayStation,11,The Last of Us
+344,53,Masculino,45-54,PC,5,Civilization
+345,22,Femenino,18-24,PC,14,The Sims
+346,27,Masculino,25-34,Xbox,16,Forza Horizon
+347,38,Femenino,35-44,PC,10,Stardew Valley
+348,54,Masculino,55+,Switch,3,Mario Kart
+349,20,Masculino,18-24,PC,19,Valorant
+350,30,Femenino,25-34,PC,12,Zelda
+351,15,Masculino,13-17,Switch,9,Pokemon
+352,33,Masculino,25-34,PC,18,Elden Ring
+353,44,Femenino,35-44,PC,8,The Sims
+354,51,Masculino,45-54,PC,5,Age of Empires
+355,23,Masculino,18-24,PlayStation,20,Call of Duty
+356,28,Femenino,25-34,PC,13,Valorant
+357,37,Masculino,35-44,PC,11,Civilization
+358,55,Masculino,55+,PC,3,Solitaire
+359,19,Femenino,18-24,Switch,14,Zelda
+360,31,Masculino,25-34,PC,17,League of Legends
+361,16,Femenino,13-17,Switch,10,Animal Crossing
+362,29,Masculino,25-34,PlayStation,16,The Last of Us
+363,41,Masculino,35-44,Xbox,9,Red Dead Redemption
+364,52,Femenino,45-54,PC,4,Solitaire
+365,22,Masculino,18-24,PC,19,FIFA
+366,27,Femenino,25-34,PC,12,Stardew Valley
+367,38,Masculino,35-44,PC,11,Civilization
+368,56,Femenino,55+,Switch,2,Mario Kart
+369,20,Masculino,18-24,PC,20,Valorant
+370,30,Masculino,25-34,PC,15,Elden Ring
+371,14,Femenino,13-17,Switch,8,Just Dance
+372,32,Masculino,25-34,PC,17,League of Legends
+373,43,Femenino,35-44,PC,9,The Sims
+374,50,Masculino,45-54,PC,6,Civilization
+375,21,Masculino,18-24,PC,18,Valorant
+376,28,Femenino,25-34,Switch,11,Animal Crossing
+377,39,Masculino,35-44,PC,10,Age of Empires
+378,57,Masculino,55+,PC,3,Solitaire
+379,23,Femenino,18-24,PC,15,Stardew Valley
+380,31,Masculino,25-34,PlayStation,16,God of War
+381,17,Masculino,13-17,Switch,11,Pokemon
+382,29,Femenino,25-34,PC,13,Valorant
+383,40,Masculino,35-44,PC,12,Civilization
+384,53,Femenino,45-54,PC,5,Solitaire
+385,19,Masculino,18-24,PC,19,FIFA
+386,27,Masculino,25-34,PC,17,League of Legends
+387,36,Femenino,35-44,Switch,10,Zelda
+388,54,Masculino,55+,PC,3,Age of Empires
+389,22,Femenino,18-24,PC,14,The Sims
+390,30,Masculino,25-34,PC,18,Valorant
+391,15,Masculino,13-17,Switch,9,Mario Kart
+392,33,Femenino,25-34,PC,12,Stardew Valley
+393,42,Masculino,35-44,Xbox,10,Forza Horizon
+394,51,Femenino,45-54,PC,5,Solitaire
+395,20,Masculino,18-24,PC,20,Elden Ring
+396,28,Masculino,25-34,PC,16,Valorant
+397,38,Femenino,35-44,PC,11,Civilization
+398,55,Masculino,55+,PC,3,Solitaire
+399,23,Masculino,18-24,PlayStation,18,God of War
+400,31,Femenino,25-34,PC,13,The Sims
